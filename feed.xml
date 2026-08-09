@@ -4,10 +4,17 @@
         <title>gblog 格式预览 Demo</title>
         <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</link>
         <description>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</description>
-        <lastBuildDate>Sun, 09 Aug 2026 16:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>gblog Demo</copyright>
+        <item>
+            <title><![CDATA[Markdown 完整格式预览]]></title>
+            <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDO4Cg.html</link>
+            <guid isPermaLink="false">https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDO4Cg.html</guid>
+            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Markdown 完整格式预览 这是一篇纯示例文章，用于检查 Markdown 、 强调 、 组合强调 、 删除线 与 inline code 的显示效果，不包含任何个人信息或凭据。 标题与链接 三级标题 可以访问 GitHub Docs ；也可以使用自动链接 https://example.com/ 。特殊字符可写成 &lt;demo&gt; 。 列表与任务项 无序列表第一项 嵌套项 A 嵌套项 B 无序列表第二项 有序步骤一 有序步骤二 子步骤 2.1 子步骤 2.2 已完成的预览项 待完成的预览项 …]]></description>
+        </item>
     </channel>
 </rss>
