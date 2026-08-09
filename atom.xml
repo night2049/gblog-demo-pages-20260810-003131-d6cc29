@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</id>
+    <title>gblog 格式预览 Demo</title>
+    <updated>2026-08-09T16:44:41.900Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>gblog Demo</name>
+    </author>
+    <link rel="alternate" href="https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29"/>
+    <subtitle>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</subtitle>
+    <rights>gblog Demo</rights>
+</feed>

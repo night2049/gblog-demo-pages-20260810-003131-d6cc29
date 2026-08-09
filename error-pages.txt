@@ -1,0 +1,19 @@
+# 错误页多端接线说明
+
+本目录已生成各 HTTP 码错误页 (如 404.html / 403.html / 500.html). 页面与托管无关, 仅接线方式不同:
+
+## GitHub Pages
+自动服务 404.html (纯静态托管, 其余码不可自定义, 页面仍生成备用).
+
+## Netlify
+404.html 自动生效; 其余码经 _redirects 或 netlify.toml, 例如 _redirects:
+  /* /404.html 404
+
+## Vercel
+vercel.json 路由 / 框架约定, 例如:
+  { "routes": [{ "src": "/.*", "status": 404, "dest": "/404.html" }] }
+
+## Nginx (自建)
+  error_page 404 /404.html;
+  error_page 403 /403.html;
+  error_page 500 502 503 504 /500.html;
