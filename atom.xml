@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</id>
     <title>gblog 格式预览 Demo</title>
-    <updated>2023-03-15T00:00:00.000Z</updated>
+    <updated>2024-08-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gblog Demo</name>
@@ -10,6 +10,13 @@
     <link rel="alternate" href="https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29"/>
     <subtitle>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</subtitle>
     <rights>gblog Demo</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML 与数学公式预览]]></title>
+        <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDPzvQ.html</id>
+        <link href="https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDPzvQ.html"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML 与数学公式预览 本页验证 原生 HTML 白名单 与 KaTeX 数学公式 ，同时保留常见 Markdown 结构。示例数据全部为虚构内容。 文本样式 行内组合 普通文本、 粗体 、 斜体 、 粗斜体 、 删除文本 、 插入文本 、H 2 O 与 x 2 。 参考链接： Example Domain ，行内代码为 const answer = 42 。 列表与任务 HTML 元素 <details> <ruby> Markdown 元素 表格 围栏代码 先渲染 Markdown 再增强数学公式 …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown 完整格式预览]]></title>
         <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDO4Cg.html</id>

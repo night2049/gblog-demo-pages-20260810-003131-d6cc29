@@ -4,11 +4,18 @@
         <title>gblog 格式预览 Demo</title>
         <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</link>
         <description>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</description>
-        <lastBuildDate>Wed, 15 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>gblog Demo</copyright>
+        <item>
+            <title><![CDATA[HTML 与数学公式预览]]></title>
+            <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDPzvQ.html</link>
+            <guid isPermaLink="false">https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDPzvQ.html</guid>
+            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[HTML 与数学公式预览 本页验证 原生 HTML 白名单 与 KaTeX 数学公式 ，同时保留常见 Markdown 结构。示例数据全部为虚构内容。 文本样式 行内组合 普通文本、 粗体 、 斜体 、 粗斜体 、 删除文本 、 插入文本 、H 2 O 与 x 2 。 参考链接： Example Domain ，行内代码为 const answer = 42 。 列表与任务 HTML 元素 <details> <ruby> Markdown 元素 表格 围栏代码 先渲染 Markdown 再增强数学公式 …]]></description>
+        </item>
         <item>
             <title><![CDATA[Markdown 完整格式预览]]></title>
             <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDO4Cg.html</link>
