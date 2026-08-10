@@ -4,11 +4,18 @@
         <title>gblog 格式预览 Demo</title>
         <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</link>
         <description>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</description>
-        <lastBuildDate>Fri, 05 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 17:38:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <copyright>gblog Demo</copyright>
+        <item>
+            <title><![CDATA[[core-v1.0.0-acceptance] private public third-party routing]]></title>
+            <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html</link>
+            <guid isPermaLink="false">https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html</guid>
+            <pubDate>Mon, 10 Aug 2026 17:38:38 GMT</pubDate>
+            <description><![CDATA[Image routing acceptance Private GitHub attachment Public GitHub attachment Third-party image]]></description>
+        </item>
         <item>
             <title><![CDATA[图文与结构化内容预览]]></title>
             <link>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDQDRQ.html</link>
