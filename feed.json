@@ -8,13 +8,6 @@
     },
     "items": [
         {
-            "id": "https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html",
-            "content_html": "Image routing acceptance Private GitHub attachment Public GitHub attachment Third-party image",
-            "url": "https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html",
-            "title": "[core-v1.0.5-acceptance] private public third-party routing",
-            "date_modified": "2026-08-10T17:38:38.000Z"
-        },
-        {
             "id": "https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDQDRQ.html",
             "content_html": "图文与结构化内容预览 这篇文章组合测试 图像 、 结构化段落 、链接、表格、任务列表、代码、脚注与数学表达式；内容仅用于部署验收。 层级与强调 第三级标题 第四级标题 文本支持 重点 、 语气 、 重点语气 、 旧版本 和 preview-mode 。公开参考链接： Markdown Guide 。 混合列表 春季示例 图片预览 表格预览 冬季示例 数学预览 HTML 预览 元数据日期覆盖 标签与目录分类 后续人工浏览器检查 引用、代码与数据表 可重复的示例比依赖临时数据的示例更容易验证。 本嵌套引用没有…",
             "url": "https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDQDRQ.html",
