@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29</id>
     <title>gblog 格式预览 Demo</title>
-    <updated>2025-12-05T00:00:00.000Z</updated>
+    <updated>2026-08-10T17:38:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>gblog Demo</name>
@@ -10,6 +10,13 @@
     <link rel="alternate" href="https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29"/>
     <subtitle>用于验证 GitHub Issues 发布、分类与 Markdown 渲染的隔离示例站点</subtitle>
     <rights>gblog Demo</rights>
+    <entry>
+        <title type="html"><![CDATA[[core-v1.0.5-acceptance] private public third-party routing]]></title>
+        <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html</id>
+        <link href="https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABML7y4w.html"/>
+        <updated>2026-08-10T17:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Image routing acceptance Private GitHub attachment Public GitHub attachment Third-party image]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图文与结构化内容预览]]></title>
         <id>https://night2049.github.io/gblog-demo-pages-20260810-003131-d6cc29/post/I_kwDOTzbiys8AAAABMDQDRQ.html</id>
